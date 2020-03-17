@@ -1,0 +1,6 @@
+[2020-03-17 13:41:38.038] [com.aaron.demo.HelloSLF] [main] [18] [INFO ] info
+[2020-03-17 13:41:38.038] [com.aaron.demo.HelloSLF] [main] [19] [WARN ] warn
+[2020-03-17 13:43:01.001] [com.aaron.demo.HelloSLF] [main] [16] [TRACE] trace
+[2020-03-17 13:43:01.001] [com.aaron.demo.HelloSLF] [main] [17] [DEBUG] debug
+[2020-03-17 13:43:01.001] [com.aaron.demo.HelloSLF] [main] [18] [INFO ] info
+[2020-03-17 13:43:01.001] [com.aaron.demo.HelloSLF] [main] [19] [WARN ] warn
